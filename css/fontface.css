@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,500,700&display=swap&subset=japanese');
+@font-face {
+font-family: 'GenJyuuGothicX-Bold';
+src: url('fonts/GenJyuuGothicX-Bold.eot'); /* IE9 Compat Modes */
+src: url('fonts/GenJyuuGothicX-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('fonts/GenJyuuGothicX-Bold.woff') format('woff'), /* Modern Browsers */
+     url('fonts/GenJyuuGothicX-Bold.ttf')  format('truetype'); 
+}
+
+@font-face {
+font-family: 'GenJyuuGothicX-ExtraLight';
+src: url('fonts/GenJyuuGothicX-ExtraLight.eot'); /* IE9 Compat Modes */
+src: url('fonts/GenJyuuGothicX-ExtraLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('fonts/GenJyuuGothicX-ExtraLight.woff') format('woff'), /* Modern Browsers */
+     url('fonts/GenJyuuGothicX-ExtraLight.ttf')  format('truetype'); 
+}
+
+@font-face {
+font-family: 'GenJyuuGothicX-Light';
+src: url('fonts/GenJyuuGothicX-Light.eot'); /* IE9 Compat Modes */
+src: url('fonts/GenJyuuGothicX-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('fonts/GenJyuuGothicX-Light.woff') format('woff'), /* Modern Browsers */
+     url('fonts/GenJyuuGothicX-Light.ttf')  format('truetype');
+}
+
+@font-face {
+font-family: 'GenJyuuGothicX-Medium';
+src: url('fonts/GenJyuuGothicX-Medium.eot'); /* IE9 Compat Modes */
+src: url('fonts/GenJyuuGothicX-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('fonts/GenJyuuGothicX-Medium.woff') format('woff'), /* Modern Browsers */
+     url('fonts/GenJyuuGothicX-Medium.ttf')  format('truetype'); 
+}
+
+@font-face {
+font-family: 'GenJyuuGothicX-Regular';
+src: url('fonts/GenJyuuGothicX-Regular.eot'); /* IE9 Compat Modes */
+src: url('fonts/GenJyuuGothicX-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('fonts/GenJyuuGothicX-Regular.woff') format('woff'), /* Modern Browsers */
+     url('fonts/GenJyuuGothicX-Regular.ttf')  format('truetype');
+}
+
